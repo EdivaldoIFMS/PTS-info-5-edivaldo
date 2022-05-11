@@ -1,7 +1,6 @@
 {
   "name": "pts-info-5-edivaldo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -18,5 +17,14 @@
   "devDependencies": {
     "nodemon": "^2.0.15",
     "sequelize-cli": "^6.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdivaldoIFMS/PTS-info-5-edivaldo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EdivaldoIFMS/PTS-info-5-edivaldo/issues"
+  },
+  "homepage": "https://github.com/EdivaldoIFMS/PTS-info-5-edivaldo#readme",
+  "description": ""
 }
